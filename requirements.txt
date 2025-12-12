@@ -1,4 +1,1 @@
-streamlit==1.29.0
-pandas==2.1.2
-# sqlite3 is in Python standard library
-sqlite3
+streamlit
