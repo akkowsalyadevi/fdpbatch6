@@ -185,9 +185,10 @@ def main():
 	st.markdown("---")
 
 	# Footer
-	st.caption("Streamlit + SQLite CRUD demo - data.db stored alongside app file.")
+	st.caption("Streamlit and SQLite CRUD demo - data.db stored alongside app file.")
 
 
 if __name__ == "__main__":
 	main()
+
 
